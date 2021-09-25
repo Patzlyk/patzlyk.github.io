@@ -1,0 +1,31 @@
+Hráč: Filip
+  Podání:
+    Úspěšné: 14
+    Neúspěšné: 1
+    Esa: 1
+    Do sítě: 1
+    Out: 1
+    Úspěšnost: 83%
+  Příjem z podání:
+    Úspěšné: 8
+    Neúspěšné: 4
+    Úspěšnost: 67%
+  Blok:
+    Úspěšné: 2
+    Neúspěšné: 2
+    Out: 0
+    Úspěšnost: 50%
+  Ulívky:
+    Úspěšné: 5
+    Zablokované: 0
+    Out: 1
+    Úspěšnost: 83%
+  Smeč:
+    Úspěšné: 13
+    Neúspěšné: 0
+    Zablokované: 3
+    Síť: 2
+    Out: 1
+    Úspěšnost: 68%
+  Míč skrz prsty: 0
+  Dotek sítě: 0

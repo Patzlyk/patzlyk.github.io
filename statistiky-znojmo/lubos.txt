@@ -1,0 +1,31 @@
+Hráč: Luboš
+  Podání:
+    Úspěšné: 5
+    Neúspěšné: 0
+    Esa: 0
+    Do sítě: 1
+    Out: 1
+    Úspěšnost: 71%
+  Příjem z podání:
+    Úspěšné: 1
+    Neúspěšné: 1
+    Úspěšnost: 50%
+  Blok:
+    Úspěšné: 1
+    Neúspěšné: 0
+    Out: 0
+    Úspěšnost: 100%
+  Ulívky:
+    Úspěšné: 1
+    Zablokované: 0
+    Out: 0
+    Úspěšnost: 100%
+  Smeč:
+    Úspěšné: 18
+    Neúspěšné: 0
+    Zablokované: 1
+    Síť: 1
+    Out: 3
+    Úspěšnost: 78%
+  Míč skrz prsty: 1
+  Dotek sítě: 2
