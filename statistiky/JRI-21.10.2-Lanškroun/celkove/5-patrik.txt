@@ -1,0 +1,35 @@
+Hráč: Patrik
+  Podání:
+    Úspěšné: 2
+    Neúspěšné: 0
+    Esa: 0
+    Do sítě: 0
+    Out: 0
+    Úspěšnost: 100%
+  Příjem z podání:
+    Úspěšné: 0
+    Neúspěšné: 0
+    Úspěšnost: 0%
+  Blok:
+    Úspěšné: 0
+    Neúspěšné: 0
+    Do sítě(kapsa): 0
+    Out: 0
+    Úspěšnost: 0%
+  Ulívky:
+    Úspěšné: 0
+    Do sítě: 0
+    Do outu: 0
+    Zablokované: 0
+    Neúspěšné: 0
+    Úspěšnost: 0%
+  Smeč:
+    Úspěšné: 0
+    Do sítě: 0
+    Do outu: 0
+    Zablokované: 0
+    Přešlap třímetrovky: 0
+    Neúspěšné: 0
+    Úspěšnost: 0%
+  Míč skrz prsty: 0
+  Dotek sítě: 1

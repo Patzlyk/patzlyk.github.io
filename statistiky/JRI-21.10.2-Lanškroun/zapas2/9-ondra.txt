@@ -1,0 +1,35 @@
+Hráč: Ondra
+  Podání:
+    Úspěšné: 1
+    Neúspěšné: 0
+    Esa: 0
+    Do sítě: 2
+    Out: 0
+    Úspěšnost: 33%
+  Příjem z podání:
+    Úspěšné: 2
+    Neúspěšné: 3
+    Úspěšnost: 40%
+  Blok:
+    Úspěšné: 0
+    Neúspěšné: 0
+    Do sítě(kapsa): 0
+    Out: 1
+    Úspěšnost: 0%
+  Ulívky:
+    Úspěšné: 1
+    Do sítě: 0
+    Do outu: 0
+    Zablokované: 0
+    Neúspěšné: 0
+    Úspěšnost: 100%
+  Smeč:
+    Úspěšné: 1
+    Do sítě: 0
+    Do outu: 0
+    Zablokované: 0
+    Přešlap třímetrovky: 0
+    Neúspěšné: 0
+    Úspěšnost: 100%
+  Míč skrz prsty: 0
+  Dotek sítě: 0

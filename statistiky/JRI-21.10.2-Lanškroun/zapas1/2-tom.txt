@@ -1,0 +1,35 @@
+Hráč: Tom
+  Podání:
+    Úspěšné: 4
+    Neúspěšné: 0
+    Esa: 0
+    Do sítě: 2
+    Out: 1
+    Úspěšnost: 57%
+  Příjem z podání:
+    Úspěšné: 0
+    Neúspěšné: 0
+    Úspěšnost: 0%
+  Blok:
+    Úspěšné: 3
+    Neúspěšné: 3
+    Do sítě(kapsa): 1
+    Out: 3
+    Úspěšnost: 30%
+  Ulívky:
+    Úspěšné: 0
+    Do sítě: 0
+    Do outu: 0
+    Zablokované: 0
+    Neúspěšné: 0
+    Úspěšnost: 0%
+  Smeč:
+    Úspěšné: 1
+    Do sítě: 0
+    Do outu: 0
+    Zablokované: 0
+    Přešlap třímetrovky: 0
+    Neúspěšné: 0
+    Úspěšnost: 100%
+  Míč skrz prsty: 0
+  Dotek sítě: 0
